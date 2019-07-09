@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+.score-panel {
+    font-size: 1.5em;
+    color: white;
+}
